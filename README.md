@@ -51,6 +51,9 @@ I am a **Student, Developer, and Founder** with a love for **AI, Games, and Star
 ### [Hop n’ Splat](#)  
 🎮 Simple, funny, and addictive mobile game.
 
+### [QuickBeam](#)  
+An Desktop app for sharing files and folder offline using peer to peer network.
+
 ---
 
 ## Contact Me
