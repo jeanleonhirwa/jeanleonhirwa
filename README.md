@@ -65,8 +65,8 @@ I am a **Student, Developer, and Founder** with a love for **AI, Games, and Star
 
 ## GitHub Stats
 
-![Hirwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HirwaLeon&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HirwaLeon&layout=compact&theme=radical)
+![Hirwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanleonhirwa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanleonhirwa&layout=compact&theme=radical)
 
 ---
 
