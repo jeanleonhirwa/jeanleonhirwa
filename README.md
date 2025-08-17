@@ -5,7 +5,7 @@ Building AI software and games to solve real problems. Passionate about **innova
 
 🌍 Based in Rwanda, Rwamagana  
 
-![GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+
 
 ---
 
@@ -59,7 +59,7 @@ I am a **Student, Developer, and Founder** with a love for **AI, Games, and Star
 🐦 [Twitter/X](https://twitter.com/HirwaLeon)  
 📸 [Instagram](https://instagram.com/hirwa_leon)  
 
-![GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+
 
 ---
 
