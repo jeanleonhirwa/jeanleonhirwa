@@ -45,7 +45,7 @@ I am a **Student, Developer, and Founder** with a love for **AI, Games, and Star
 
 ## Projects
 
-### [Notexa](#)  
+### [Notexa](https://notexa.streamlit.app/)  
 📝 Students learning platform for summarizing, generating, and revising notes.  
 
 ### [Hop n’ Splat](#)  
