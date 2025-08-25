@@ -60,7 +60,7 @@ An Desktop app for sharing files and folder offline using peer to peer network.
 
 📧 [Email](mailto:hirwajohnleon@gmail.com)  
 🐦 [Twitter/X](https://twitter.com/HirwaLeon)  
-📸 [Instagram](https://instagram.com/hirwa_leon)  
+📸 [Instagram]([https://instagram.com/hirwa_leon](https://www.instagram.com/leon_dri_drake/))  
 
 
 
