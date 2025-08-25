@@ -66,11 +66,5 @@ An Desktop app for sharing files and folder offline using peer to peer network.
 
 ---
 
-## GitHub Stats
-
-![Hirwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanleonhirwa&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanleonhirwa&layout=compact&theme=radical)
-
----
 
 ✨ Let's build the future together!
