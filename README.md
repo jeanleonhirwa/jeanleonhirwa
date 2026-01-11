@@ -62,9 +62,10 @@ An Desktop app for sharing files and folder offline using peer to peer network.
 
 ## Contact Me
 
-📧 [Email](mailto:hirwajohnleon@gmail.com)  
-🐦 [Twitter/X](https://twitter.com/HirwaLeon)  
-📸 [Instagram]([https://instagram.com/hirwa_leon](https://www.instagram.com/leon_dri_drake/)  
+� [Instagram](https://www.instagram.com/hirwa_leon/)  
+� [LinkedIn](https://www.linkedin.com/in/hirwa-munyaneza-jean-leon-673266380/)  
+� [X](https://x.com/jeanleonhirwa)  
+🌐 [Portfolio](https://jeanleon.netlify.app/)  
 
 
 
