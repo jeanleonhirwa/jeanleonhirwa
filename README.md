@@ -45,6 +45,10 @@ I am a **Student, Developer, and Founder** with a love for **AI, Games, and Star
 
 ## Projects
 
+### [Snap Price](https://snapprice-smoky.vercel.app/)
+Take a photo of any product and instantly discover its price, compare deals, and find where to buy it — online or nearby. Shopping made smarter with AI.  
+**"Snap. Price. Buy."**
+
 ### [Notexa](https://notexa.streamlit.app/)  
 📝 Students learning platform for summarizing, generating, and revising notes.  
 
